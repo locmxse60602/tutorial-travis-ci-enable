@@ -1,0 +1,17 @@
+{
+  "name": "tutorial-travis-ci-enable",
+  "version": "1.0.0",
+  "description": "Test how to enable travis ci for repo",
+  "main": "index.js",
+  "repository": "git@github.com:locmxse60602/tutorial-travis-ci-enable.git",
+  "author": "Loc Mai <locmxse60602@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
